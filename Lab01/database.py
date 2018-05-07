@@ -5,7 +5,7 @@ client = MongoClient(uri)
 
 db = client.get_default_database()
 
-blog=db["blog"]
+blog=db["post"]
 
 post = {
     'title': "Hôm nay trời đẹp",

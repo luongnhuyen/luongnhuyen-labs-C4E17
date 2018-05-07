@@ -1,0 +1,27 @@
+1. Why should we use functions at all?
+Vi?c dùng hàm có các l?i ích sau:
+- Gi?m kh?i lu?ng mã ngu?n
+- D? qu?n lý do chuong trình du?c chia thành nhi?u ph?n nh?
+- Mã ngu?n tr? nên sáng s?a
+- Tái s? d?ng l?i mã ngu?n
+- Che gi?u thông tin
+
+2. How to define/declare a function?
+Hàm cung tuong duong v?i m?t d?i tu?ng. 
+Giá tr? c?a hàm có th? du?c gán vào bi?n, luu vào trong danh sách ho?c du?c dùng d? làm tham s? c?a các hàm khác
+Ð?nh nghia m?t hàm b?ng t? khóa def, ph?n code bên trong hàm ph?i th?t lùi vào.
+
+3.How to call/use a function?
+Ð? g?i m?t hàm thì ghi l?i tên hàm dó cùng v?i c?p d?u ngo?c tròn ().
+
+4. What is return, why and how do we use it?
+Return có tác d?ng tr? v? m?t giá tr? c?a m?t hàm. 
+
+5. Do we have to use return in every function?
+M?t hàm có th? có ho?c không có t? khóa return, n?u không có thì Python m?c d?nh ng?m tr? v? m?t d?i tu?ng None.
+
+6. What are function arguments/parameters, why and how we use it?
+Tham sô´ la` gia´ tri? cu?a ha`m.
+
+7. How to use function from a different file other than our currently working file?
+from ten_file import ten_ham
